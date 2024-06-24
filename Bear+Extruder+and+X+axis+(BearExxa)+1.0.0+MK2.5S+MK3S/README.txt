@@ -1,0 +1,1 @@
+Bear Extruder and X axis (BearExxa) 1.0.0 MK2.5S MK3S by pekcitron on Thingiverse: https://www.thingiverse.com/thing:4362586

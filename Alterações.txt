@@ -1,0 +1,8 @@
+
+ - Verificar alinhamento furos "Front e Back Frame Plate"
+ - Paredes da caixa fonte mais grossas
+ - Caixa Fonte mais alta para espaço dos fios
+ - Alterar furos do frame frente e verso para M3
+ - Abertura para o cartão SD
+ - 
+
