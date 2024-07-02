@@ -1,14 +1,14 @@
-site_name: ME-Cloner-3D-Printer
+site_name: MY-Cloner-3D-Printer
 
 site_url: "https://my-machines.pt/MY-Cloner-3D-Printer/"
 site_autor: "Edgar Mata"
 site_description: "Centro de conhecimento Gadget Plus.LDA"
 
 copyright: |
-  &copy; 2024 <a href="https://gadgetplus.pt/" target="_blank" rel="noopener">Gadget Plus, LDA</a>
+  &copy; 2024 <a href="https://my-machines.pt/" target="_blank" rel="noopener">Gadget Plus, LDA</a>
 
-repo_name: "Carbon_FAQS"
-repo_url: "https://github.com/EdgarMata/Carbon-FAQS"
+repo_name: "My-Cloner-3D-Printer"
+repo_url: "https://github.com/EdgarMata/MY-Cloner-3D-Printer"
 
 theme:
   logo: assets/logo.svg
