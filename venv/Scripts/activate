@@ -39,10 +39,10 @@ deactivate nondestructive
 if [ "${OSTYPE:-}" = "cygwin" ] || [ "${OSTYPE:-}" = "msys" ] ; then
     # transform D:\path\to\venv to /d/path/to/venv on MSYS
     # and to /cygdrive/d/path/to/venv on Cygwin
-    export VIRTUAL_ENV=$(cygpath "D:\OneDrive\ME-Machines\ME-Cloner-3D-Printer\venv")
+    export VIRTUAL_ENV=$(cygpath "D:\OneDrive\MY-Machines\MY-Cloner-3D-Printer\venv")
 else
     # use the path as-is
-    export VIRTUAL_ENV="D:\OneDrive\ME-Machines\ME-Cloner-3D-Printer\venv"
+    export VIRTUAL_ENV="D:\OneDrive\MY-Machines\MY-Cloner-3D-Printer\venv"
 fi
 
 _OLD_VIRTUAL_PATH="$PATH"
